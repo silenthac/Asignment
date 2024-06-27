@@ -1,0 +1,45 @@
+
+.upcoming{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left: 100px;
+    padding-right: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.below2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    align-content: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    
+    
+
+
+}
+
+.cont{
+    margin-top: 150px;
+}
+
+.Previous{
+    border: 2px  solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.next{
+
+    border: 2px  solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
